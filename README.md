@@ -1,5 +1,10 @@
 # 🛡️ VERITAS AI — Evidence-Driven Technical Interrogation Platform
 
+<!-- documentation-navigation -->
+[Developer guide](docs/PROJECT_GUIDE.md) · [Source reference](docs/REFERENCE.md) · [Contributing](CONTRIBUTING.md)
+<!-- /documentation-navigation -->
+
+
 > **Résumés lie. Evidence doesn't.**  
 > VERITAS AI is an adaptive AI technical interviewer that probes candidate CV claims, extracts concrete empirical quotes, dynamically updates hiring confidence matrices, and generates evidence-backed assessment reports.
 

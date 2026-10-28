@@ -1,7 +1,6 @@
 # Veritas-ai source reference
 
-
-Source reviewed: [`b7ca6b193d05`](https://github.com/noel-ult/Veritas-ai/commit/b7ca6b193d051ac2628ff16b68446fdc81ff9295).
+Source reviewed: [`e125ee50b8d0`](https://github.com/noel-ult/Veritas-ai/commit/e125ee50b8d0f347a7c8939a8251b9d06fac5f69).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -60,9 +59,12 @@ Paths are **as declared in each source file**. Router/blueprint mount prefixes f
 Historical plans/reports describe their own revision; use current source when they disagree.
 
 - [AI_USAGE.md](../AI_USAGE.md)
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [README.md](../README.md)
 - [backend/README.md](../backend/README.md)
 - [backend/requirements.txt](../backend/requirements.txt)
+- [docs/PROJECT_GUIDE.md](../docs/PROJECT_GUIDE.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 - [technical-spec.md](../technical-spec.md)
 
 ## Source and configuration map
